@@ -20,7 +20,7 @@ def get_full_transcript(youtube_link):
 def generate_summary(transcript, max_tokens=150):
     try:
         # Set up your OpenAI API key
-        openai.api_key = 'key_keys'
+        openai.api_key = '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'
 
         # Generate a summary using OpenAI GPT-3
         response = openai.Completion.create(

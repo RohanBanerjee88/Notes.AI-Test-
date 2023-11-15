@@ -1,2 +1,2 @@
-# Notes.AI-Test-
+# Recapify.AI-Test-
 AI driven notes companion 
